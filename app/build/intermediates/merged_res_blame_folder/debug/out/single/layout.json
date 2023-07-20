@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "com.raian.newsappproject.app-mergeDebugResources-53:/layout/fragment_technology.xml",
+        "source": "com.raian.newsappproject.app-main-56:/layout/fragment_technology.xml"
+    },
+    {
+        "merged": "com.raian.newsappproject.app-mergeDebugResources-53:/layout/new_item_layout.xml",
+        "source": "com.raian.newsappproject.app-main-56:/layout/new_item_layout.xml"
+    },
+    {
+        "merged": "com.raian.newsappproject.app-mergeDebugResources-53:/layout/fragment_health.xml",
+        "source": "com.raian.newsappproject.app-main-56:/layout/fragment_health.xml"
+    },
+    {
+        "merged": "com.raian.newsappproject.app-mergeDebugResources-53:/layout/fragment_science.xml",
+        "source": "com.raian.newsappproject.app-main-56:/layout/fragment_science.xml"
+    },
+    {
+        "merged": "com.raian.newsappproject.app-mergeDebugResources-53:/layout/item_layout.xml",
+        "source": "com.raian.newsappproject.app-main-56:/layout/item_layout.xml"
+    },
+    {
+        "merged": "com.raian.newsappproject.app-mergeDebugResources-53:/layout/fragment_home.xml",
+        "source": "com.raian.newsappproject.app-main-56:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.raian.newsappproject.app-mergeDebugResources-53:/layout/fragment_web_page_view.xml",
+        "source": "com.raian.newsappproject.app-main-56:/layout/fragment_web_page_view.xml"
+    },
+    {
+        "merged": "com.raian.newsappproject.app-mergeDebugResources-53:/layout/fragment_sports.xml",
+        "source": "com.raian.newsappproject.app-main-56:/layout/fragment_sports.xml"
+    },
+    {
+        "merged": "com.raian.newsappproject.app-mergeDebugResources-53:/layout/activity_main.xml",
+        "source": "com.raian.newsappproject.app-main-56:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.raian.newsappproject.app-mergeDebugResources-53:/layout/fragment_detail_bookmark_news.xml",
+        "source": "com.raian.newsappproject.app-main-56:/layout/fragment_detail_bookmark_news.xml"
+    },
+    {
+        "merged": "com.raian.newsappproject.app-mergeDebugResources-53:/layout/fragment_top_news.xml",
+        "source": "com.raian.newsappproject.app-main-56:/layout/fragment_top_news.xml"
+    },
+    {
+        "merged": "com.raian.newsappproject.app-mergeDebugResources-53:/layout/fragment_bookmark.xml",
+        "source": "com.raian.newsappproject.app-main-56:/layout/fragment_bookmark.xml"
+    },
+    {
+        "merged": "com.raian.newsappproject.app-mergeDebugResources-53:/layout/fragment_entertainment.xml",
+        "source": "com.raian.newsappproject.app-main-56:/layout/fragment_entertainment.xml"
+    },
+    {
+        "merged": "com.raian.newsappproject.app-mergeDebugResources-53:/layout/fragment_detail_news_article.xml",
+        "source": "com.raian.newsappproject.app-main-56:/layout/fragment_detail_news_article.xml"
+    }
+]
